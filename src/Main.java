@@ -41,12 +41,10 @@ public class Main {
                         case 3:
                             System.out.println("Bakiyeniz : " + balance);
                             continue;
-
                     }
                     break;
                 } while ( select != 4 ); {
                     System.out.println("Tekrar Görüşmek Üzere.");
-
                 }
                 break;
 
