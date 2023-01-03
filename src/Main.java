@@ -45,11 +45,7 @@ public class Main {
                     }
                     break;
                 } while ( select != 4 ); {
-                            if (select == 4 ){
-                                System.out.println("Tekrar Görüşmek Üzere.");
-                            } else {
-                                System.out.println("Hatalı giriş yaptınız!");
-                            }
+                    System.out.println("Tekrar Görüşmek Üzere.");
 
                 }
                 break;
